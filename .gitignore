@@ -1,0 +1,44 @@
+# Build Folders (C#)
+bin/
+obj/
+
+# Visual Studio Files
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Rider IDE
+.idea/
+
+# Build Logs
+*.log
+*.tlog
+
+# User-Specific Files
+*.rsuser
+*.userprefs
+
+# Database
+*.mdf
+*.ldf
+
+# Azure Functions
+local.settings.json
+
+# ASP.NET Scaffolding
+.scaffolding
+
+# DotNet
+*.dotsettings.user
+
+# Resharper
+_ReSharper*/
+*.ReSharper
+*.DotSettings.user
+
+# Temporary Files
+~$*
+*.tmp
+*.temp
